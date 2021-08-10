@@ -1,0 +1,18 @@
+responsive:
+ - flex-wrap: wrap 
+
+price-tag:
+ -  top :0 
+ left:0 
+ transfrom : translateX(-50%,-50%)
+
+ div:{
+     pos:relative
+     width
+     height
+ }
+
+ img{
+     pos:absolute
+
+ }
